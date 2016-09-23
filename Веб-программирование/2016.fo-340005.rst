@@ -264,8 +264,8 @@
    * - 14
      - Овчинникова Анастасия
      - Ovchinnickova2016_
-     -
-     -
+     -|14.dz1.1|_ |14.dz1.2-4|
+     -|14.dz2.1-5|
      -
      -
      -
@@ -486,6 +486,11 @@
 
 .. Домашняя работа #1
 
+.. |14.dz1.1| replace:: 1
+.. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
+.. |14.dz1.2-4| replace:: 2-4
+.. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
+
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
 .. |16.dz1.2-4| replace:: 2-4
@@ -500,8 +505,11 @@
 .. _22.dz1.1: https://github.com/shilak96/myproject
 .. |22.dz1.2-4| replace:: 2-4
 .. _22.dz1.2-4: https://gist.github.com/shilak96/2527945e5cbd99572bcff13be1f66716
+
     
 .. Домашняя работа #2
+.. |14.dz2.1-5| replace:: 1
+.. _14.dz1.1: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
 
 .. Домашняя работа #3
 
