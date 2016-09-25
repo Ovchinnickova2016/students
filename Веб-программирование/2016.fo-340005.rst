@@ -265,7 +265,7 @@
      - Овчинникова Анастасия
      - Ovchinnickova2016_
      - |14.dz1.1|_ |14.dz1.2-4|_ [**+4**]
-     -
+     - |5.dz2.1-5|
      -
      -
      -
@@ -513,6 +513,7 @@
 .. _14.dz1.1: https://github.com/Ovchinnickova2016/myproject
 .. |14.dz1.2-4| replace:: 2-4
 .. _14.dz1.2-4: https://gist.github.com/Ovchinnickova2016/a7024dc0a28c6209b81993e177d6ba4b
+.. 
 
 .. |15.dz1.1| replace:: 1
 .. _15.dz1.1: https://github.com/eduardpak96/myproject
@@ -549,7 +550,10 @@
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 
-.. |16.dz2.2| replace:: 1
+.. |14dz.2.1-5| replace:: 1-5
+.. _14.dz2.1-5: https://gist.github.com/Ovchinnickova2016/cba142572d1d0aab8f910ca085e55f73
+
+.. |16.dz2.2| replace:: 1-5
 .. _16.dz2.2: https://github.com/Hyuugo/myproject
 .. |16.dz2.2-5| replace:: 2-5
 .. _16.dz2.2-5: https://gist.github.com/Hyuugo/edae71951ee56f9b4af4a4c8ad6e3e29
